@@ -19,6 +19,9 @@ export default function Navbar(props) {
               <li className="nav-item">
                 <a className="nav-link" href="/https://replit.com/@mraryant/4-first-react-app#src/Components/About.jsx">About</a>
               </li> 
+              <li className="nav-item">
+                <a className="nav-link" href="text-generator-chi.vercel.app">Word Generator </a>
+              </li> 
             </ul>
             
           </div>
